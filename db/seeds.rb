@@ -49,10 +49,14 @@ tags = [city_tag, nature_tag, modern_tag, traditional_tag, landscape_tag, portra
 
 # random places
 # tokyo area
+names = ["Ginza street", "Shibuya alley", "Nakameguro", "Okachimachi street", "Ueno park", "Ikebukuro crossing", "Shinjuku station", "Asagaya", "Under the bridge", "Shinagawa", "Train tracks", "Highway bridge"]
+
+addresses = ["Ginza 1-chome", "Shibuya 3-chome", "Nakamegur 2-1-12", "Okachimachi 5-chome-23", "Ueno 4-chome", "Ikebukuro 3-12-1", "Shinjuku 3-chome", "Asagayakita 20-2-1", "Gayenmae 2-23-1", "Shinagawa 4-chome", "Shirokane", "Takadonababa"]
+
 50.times do
   place = Place.create!(
-    name: 'test_name',
-    address: 'test_addy',
+    name: names.sample,
+    address: addresses.sample,
     longitude: rand(139.360763..139.92477),
     latitude: rand(35.664660..35.90220),
     tag_list: tags.sample(2)
