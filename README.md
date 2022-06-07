@@ -1,10 +1,8 @@
 # 📚 Photo Ronin
 
-App for photographers looking for new places and angles to shoot.
-
-<br>
-App home: https://www.photo-ronin.xyz/
+App for photographers looking for new places and angles to shoot. https://www.photo-ronin.xyz/
    
+![Photo-ronin-mockup](https://user-images.githubusercontent.com/100399727/172326447-ab0f2ffe-6e7f-467a-948e-5bbb9aed0adc.jpg)
 
 ## Getting Started
 ### Setup
@@ -52,7 +50,10 @@ rails s
 Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
 
 ## Team Members
-- [Douglas Berkley](https://www.linkedin.com/in/dougberkley/)
+- [Shinji Momoi](https://github.com/shinjimomoi)
+- [Nana Kadode](https://github.com/purapho)
+- [Celso Yamashita](https://github.com/ctyamashita)
+- [Harimoto Hakuyo](https://github.com/haharimoto)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
