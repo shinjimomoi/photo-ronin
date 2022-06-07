@@ -1,4 +1,4 @@
-# 📚 Photo Ronin
+# 📸 Photo Ronin
 
 App for photographers looking for new places and angles to shoot. https://www.photo-ronin.xyz/
    
